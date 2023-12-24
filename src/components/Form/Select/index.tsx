@@ -27,7 +27,7 @@ export function Select({ children, placeholder, ...props }: SelectProps) {
           side="bottom"
           position="popper"
           sideOffset={8}
-          className="z-10 w-[--radix-select-trigger-with] overflow-hidden rounded-lg border border-zinc-300 bg-white shadow-sm"
+          className="animate-slideDownAndFade z-10 w-[--radix-select-trigger-with] overflow-hidden rounded-lg border border-zinc-300 bg-white shadow-sm"
         >
           <SelectPrimitive.Viewport>{children}</SelectPrimitive.Viewport>
         </SelectPrimitive.Content>
