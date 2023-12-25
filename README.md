@@ -1,8 +1,8 @@
 ## :page_with_curl: Projeto
 
-![]()
+![Dashboard tailwind Gif]()
 
-> Essa é  uma aplicação feito no Ignite da [Rocketseat](https://github.com/Rocketseat). Nesse Dashboard o objetivo aprender a utilizar o Tailwind para realizar a estilização.
+> Essa é uma aplicação feito no Ignite da [Rocketseat](https://github.com/Rocketseat). Nesse Dashboard o objetivo aprender a utilizar o Tailwind para realizar a estilização.
 
 ## 🚀 Tecnologias/Bibliotecas utilizadas
 
